@@ -1,0 +1,310 @@
+# mi-lista
+#EXTM3U
+#EXTINF:-1 tvg-id="#0 HD" tvg-name="#0 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV3.png" group-title="MOVISTAR",#0 HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/4830
+#EXTINF:-1 tvg-id="M. SERIES HD" tvg-name="MOVISTAR SERIES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV2.png" group-title="MOVISTAR",MOVISTAR SERIES HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4832
+#EXTINF:-1 tvg-id="M. SERIES 2 HD" tvg-name="MOVISTAR SERIES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPSER.png" group-title="MOVISTAR",MOVISTAR SERIES 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4835
+#EXTINF:-1 tvg-id="La Resistencia" tvg-name="MOVISTAR LA RESISTENCIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/RESIST.png" group-title="MOVISTAR",MOVISTAR LA RESISTENCIA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4838
+#EXTINF:-1 tvg-id="M+ LOS OSCAR" tvg-name="MOVISTAR OSCARS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MOSCAR.png" group-title="MOVISTAR",MOVISTAR OSCARS HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4841
+#EXTINF:-1 tvg-id="" tvg-name="ALL FLAMENCO" tvg-logo="https://institutoculturagitana.es/wp-content/uploads/2022/01/descarga.png" group-title="MOVISTAR",ALL FLAMENCO
+http://line.danoli101.com:8080/Amanda/Amanda/11192
+#EXTINF:-1 tvg-id="M. ACCION HD" tvg-name="MOVISTAR ACCION HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPACCI.png" group-title="MOVISTAR",MOVISTAR ACCION HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4843
+#EXTINF:-1 tvg-id="M.ESTRENOS HD" tvg-name="MOVISTAR ESTRENOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MV1.png" group-title="MOVISTAR",MOVISTAR ESTRENOS HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4846
+#EXTINF:-1 tvg-id="M. ESTRENOS 2 HD" tvg-name="MOVISTAR ESTRENOS 2 HD 1080P" tvg-logo="http://www.movistarplus.es/recorte/m-NEO/ficha_m/MEST2.png" group-title="MOVISTAR",MOVISTAR ESTRENOS 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4849
+#EXTINF:-1 tvg-id="M. CLÁSICOS HD" tvg-name="MOVISTAR CLASICOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MCLAS.png" group-title="MOVISTAR",MOVISTAR CLASICOS HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4852
+#EXTINF:-1 tvg-id="M.COMEDIA HD" tvg-name="MOVISTAR COMEDIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOME.png" group-title="MOVISTAR",MOVISTAR COMEDIA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4855
+#EXTINF:-1 tvg-id="M. DRAMA HD" tvg-name="MOVISTAR DRAMA 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPCOLE.png" group-title="MOVISTAR",MOVISTAR DRAMA 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4858
+#EXTINF:-1 tvg-id="M. Cine Español" tvg-name="MOVISTAR CINE Ñ HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",MOVISTAR CINE Ñ HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4861
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR CINE Ñ SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCESP.png" group-title="MOVISTAR",MOVISTAR CINE Ñ SD
+http://line.danoli101.com:8080/Amanda/Amanda/4862
+#EXTINF:-1 tvg-id="M. Fest" tvg-name="MOVISTAR FEST HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MONFIR.png" group-title="MOVISTAR",MOVISTAR FEST HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4863
+#EXTINF:-1 tvg-id="FOX HD" tvg-name="FOX HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/FOXGE.png" group-title="MOVISTAR",FOX HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4864
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LALIGA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA",DAZN LALIGA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/11652
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LALIGA HD " tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA",DAZN LALIGA HD 
+http://line.danoli101.com:8080/Amanda/Amanda/11668
+#EXTINF:-1 tvg-id="DAZN LaLigaHD" tvg-name="DAZN LALIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNLI.png" group-title="LALIGA",DAZN LALIGA SD
+http://line.danoli101.com:8080/Amanda/Amanda/11669
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LA LIGA HD 1080P (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA",MOVISTAR LA LIGA HD 1080P (H.265)
+http://line.danoli101.com:8080/Amanda/Amanda/4911
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LA LIGA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA",MOVISTAR LA LIGA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4912
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LA LIGA HD 1080P B" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA",MOVISTAR LA LIGA HD 1080P B
+http://line.danoli101.com:8080/Amanda/Amanda/4913
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LA LIGA HD 1080P (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA",MOVISTAR LA LIGA HD 1080P (FIBRA)
+http://line.danoli101.com:8080/Amanda/Amanda/4914
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LA LIGA HD 1080P (FIBRA 3)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA",MOVISTAR LA LIGA HD 1080P (FIBRA 3)
+http://line.danoli101.com:8080/Amanda/Amanda/4916
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LA LIGA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA",MOVISTAR LA LIGA HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/4917
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LA LIGA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGA.png" group-title="LALIGA",MOVISTAR LA LIGA SD
+http://line.danoli101.com:8080/Amanda/Amanda/4918
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LA LIGA SMARTBANK TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LALIGA",LA LIGA SMARTBANK TV HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/11666
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LA LIGA SMARTBANK TV HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LALIGA",LA LIGA SMARTBANK TV HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/11670
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LA LIGA SMARTBANK TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS.png" group-title="LALIGA",LA LIGA SMARTBANK TV SD
+http://line.danoli101.com:8080/Amanda/Amanda/11671
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="DEPORTES",#VAMOS HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4922
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="DEPORTES",#VAMOS HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/4923
+#EXTINF:-1 tvg-id="#VAMOS HD" tvg-name="#VAMOS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/VAMOSD.png" group-title="DEPORTES",#VAMOS SD
+http://line.danoli101.com:8080/Amanda/Amanda/4924
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR ELLAS #V HD 1080P" tvg-logo="https://i.postimg.cc/fyrnttT6/Ellas-V.png" group-title="DEPORTES",MOVISTAR ELLAS #V HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/11140
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="DEPORTES",GOL TV HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4925
+#EXTINF:-1 tvg-id="gol.es" tvg-name="GOL TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOL.png" group-title="DEPORTES",GOL TV SD
+http://line.danoli101.com:8080/Amanda/Amanda/4926
+#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-name="MOVISTAR DEPORTES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="DEPORTES",MOVISTAR DEPORTES HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4927
+#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-name="MOVISTAR DEPORTES HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="DEPORTES",MOVISTAR DEPORTES HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/4928
+#EXTINF:-1 tvg-id="M. DEPORTE HD" tvg-name="MOVISTAR DEPORTES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="DEPORTES",MOVISTAR DEPORTES SD
+http://line.danoli101.com:8080/Amanda/Amanda/4929
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/MF1UHD.png" group-title="DEPORTES",DAZN F1 UHD 4K
+http://line.danoli101.com:8080/Amanda/Amanda/4930
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DEPORTES",DAZN F1 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4931
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DEPORTES",DAZN F1 HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/4932
+#EXTINF:-1 tvg-id="DAZN F1 HD" tvg-name="DAZN F1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MVF1.png" group-title="DEPORTES",DAZN F1 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4933
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="MOVISTAR GOLF HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="DEPORTES",MOVISTAR GOLF HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4934
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="MOVISTAR GOLF HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="DEPORTES",MOVISTAR GOLF HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/4935
+#EXTINF:-1 tvg-id="M. GOLF HD" tvg-name="MOVISTAR GOLF SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/GOLF+.png" group-title="DEPORTES",MOVISTAR GOLF SD
+http://line.danoli101.com:8080/Amanda/Amanda/4936
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="MOVISTAR DAZN 1 HD 1080P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DEPORTES",MOVISTAR DAZN 1 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4937
+#EXTINF:-1 tvg-id="DAZN 1" tvg-name="MOVISTAR DAZN 1 SD" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DEPORTES",MOVISTAR DAZN 1 SD
+http://line.danoli101.com:8080/Amanda/Amanda/11661
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="MOVISTAR DAZN 2 HD 1080P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DEPORTES",MOVISTAR DAZN 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4938
+#EXTINF:-1 tvg-id="DAZN 2" tvg-name="MOVISTAR DAZN 2 SD" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DEPORTES",MOVISTAR DAZN 2 SD
+http://line.danoli101.com:8080/Amanda/Amanda/11662
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="MOVISTAR DAZN 3 HD 1080P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DEPORTES",MOVISTAR DAZN 3 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4939
+#EXTINF:-1 tvg-id="DAZN 3" tvg-name="MOVISTAR DAZN 3 SD" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DEPORTES",MOVISTAR DAZN 3 SD
+http://line.danoli101.com:8080/Amanda/Amanda/11663
+#EXTINF:-1 tvg-id="DAZN 4" tvg-name="MOVISTAR DAZN 4 HD 1080P" tvg-logo="https://e00-marca.uecdn.es/assets/multimedia/imagenes/2021/01/20/16111644375935.jpg" group-title="DEPORTES",MOVISTAR DAZN 4 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4940
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="DEPORTES",EUROSPORT 1 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4941
+#EXTINF:-1 tvg-id="EUROSPORT1HD" tvg-name="EUROSPORT 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP.png" group-title="DEPORTES",EUROSPORT 1 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4942
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EUROSPORT 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="DEPORTES",EUROSPORT 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4943
+#EXTINF:-1 tvg-id="EUROSPORT2HD" tvg-name="EUROSPORT 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ESP2.png" group-title="DEPORTES",EUROSPORT 2 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4944
+#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="TELEDEPORTE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="DEPORTES",TELEDEPORTE HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4945
+#EXTINF:-1 tvg-id="TELEDEPORTE FHD" tvg-name="TELEDEPORTE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/TDEP.png" group-title="DEPORTES",TELEDEPORTE SD
+http://line.danoli101.com:8080/Amanda/Amanda/4946
+#EXTINF:-1 tvg-id="" tvg-name="Go&Go Tv hd 1080P" tvg-logo="https://goandgotv.com/images/GO_AND_GO_.png" group-title="DEPORTES",Go&Go Tv hd 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/11497
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="DEPORTES",REAL MADRID TV HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4947
+#EXTINF:-1 tvg-id="R. MADRID TV" tvg-name="REAL MADRID TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/REALM.png" group-title="DEPORTES",REAL MADRID TV SD
+http://line.danoli101.com:8080/Amanda/Amanda/4948
+#EXTINF:-1 tvg-id="BARCA TV" tvg-name="BARCA TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="DEPORTES",BARCA TV HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4949
+#EXTINF:-1 tvg-id="BARCA TV" tvg-name="BARCA TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BARNA.png" group-title="DEPORTES",BARCA TV SD
+http://line.danoli101.com:8080/Amanda/Amanda/4950
+#EXTINF:-1 tvg-id="SEVILLAFC TV" tvg-name="SEVILLA FC" tvg-logo="https://sevillafc.es/sites/default/files/news/image/sfctv.jpg" group-title="DEPORTES",SEVILLA FC
+http://line.danoli101.com:8080/Amanda/Amanda/11664
+#EXTINF:-1 tvg-id="Betis TV HD" tvg-name="BETIS TV" tvg-logo="https://encrypted-tbn0.gstatic.com/images?q=tbn:ANd9GcSOpdCgAo5e00wPaieokIcLCWQAaFAl2RO5YVkqwoMc7frVdzXoaHPXi03m4FG6DYZDbR4&usqp=CAU" group-title="DEPORTES",BETIS TV
+http://line.danoli101.com:8080/Amanda/Amanda/11498
+#EXTINF:-1 tvg-id="" tvg-name="DBIKE HD 1080P" tvg-logo="https://dbikechannel.es/wp-content/uploads/2020/02/cropped-d_bike1-e1581972680494.png" group-title="DEPORTES",DBIKE HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/11665
+#EXTINF:-1 tvg-id="" tvg-name="U-BEAT HD 1080P" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/5/53/U-Beat.svg/1600px-U-Beat.svg.png" group-title="DEPORTES",U-BEAT HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4951
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (H.265)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="CHAMPIONS",MOVISTAR LIGA DE CAMPEONES HD 1080P (H.265)
+http://line.danoli101.com:8080/Amanda/Amanda/11193
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="CHAMPIONS",MOVISTAR LIGA DE CAMPEONES HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4953
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P B" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="CHAMPIONS",MOVISTAR LIGA DE CAMPEONES HD 1080P B
+http://line.danoli101.com:8080/Amanda/Amanda/4954
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES UHD 4K" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAUHD.png" group-title="CHAMPIONS",MOVISTAR LIGA DE CAMPEONES UHD 4K
+http://line.danoli101.com:8080/Amanda/Amanda/12401
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="CHAMPIONS",MOVISTAR LIGA DE CAMPEONES HD 1080P (FIBRA)
+http://line.danoli101.com:8080/Amanda/Amanda/4955
+#EXTINF:-1 tvg-id="" tvg-name="LIGA CAMPEONES FIBRA 3 ORANGE" tvg-logo="" group-title="CHAMPIONS",LIGA CAMPEONES FIBRA 3 ORANGE
+http://line.danoli101.com:8080/Amanda/Amanda/11139
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 1 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4975
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 1 HD 1080P (FIBRA)" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG1.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 1 HD 1080P (FIBRA)
+http://line.danoli101.com:8080/Amanda/Amanda/4976
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV 1 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/11667
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV 1 SD
+http://line.danoli101.com:8080/Amanda/Amanda/11672
+#EXTINF:-1 tvg-id="" tvg-name="LaLiga SmartbankTV 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS2.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/12403
+#EXTINF:-1 tvg-id="LaLiga SmartbankTV" tvg-name="LaLiga SmartbankTV 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIGS3.png" group-title="MULTIDEPORTES",LaLiga SmartbankTV 3 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/12402
+#EXTINF:-1 tvg-id="" tvg-name="DAZN LA LIGA 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DAZNL2.png" group-title="MULTIDEPORTES",DAZN LA LIGA 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/11653
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4978
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG2.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 2 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4979
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG3.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 3 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4980
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LA LIGA 4 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/MLIG4.png" group-title="MULTIDEPORTES",MOVISTAR LA LIGA 4 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4981
+#EXTINF:-1 tvg-id="M.LCAMPEONES HD#" tvg-name="MOVISTAR LIGA DE CAMPEONES HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="CHAMPIONS",MOVISTAR LIGA DE CAMPEONES HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/4957
+#EXTINF:-1 tvg-id="LA 1 HD" tvg-name="MOVISTAR LIGA DE CAMPEONES SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAPIO.png" group-title="CHAMPIONS",MOVISTAR LIGA DE CAMPEONES SD
+http://line.danoli101.com:8080/Amanda/Amanda/4958
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4961
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP2.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 2 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4962
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 3 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4963
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP3.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 3 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4964
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR LIGA DE CAMPEONES 4 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CHAP4.png" group-title="MULTIDEPORTES",MOVISTAR LIGA DE CAMPEONES 4 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4965
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 1 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4990
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 1 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 1 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4991
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 2 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4992
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 2 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 2 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4993
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 3 HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/4994
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 3 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 3 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4995
+#EXTINF:-1 tvg-id="" tvg-name="M.DEPORTES 4 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",M.DEPORTES 4 HD 1080
+http://line.danoli101.com:8080/Amanda/Amanda/11495
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 4 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 4 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4996
+#EXTINF:-1 tvg-id="" tvg-name="M.DEPORTES 5 HD 1080" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",M.DEPORTES 5 HD 1080
+http://line.danoli101.com:8080/Amanda/Amanda/11496
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 5 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 5 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4997
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 6 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 6 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4998
+#EXTINF:-1 tvg-id="" tvg-name="MOVISTAR DEPORTES 7 SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CPDEP.png" group-title="MULTIDEPORTES",MOVISTAR DEPORTES 7 SD
+http://line.danoli101.com:8080/Amanda/Amanda/4999
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DREAMWORKS HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="INFANTIL",DREAMWORKS HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5000
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DREAMWORKS HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="INFANTIL",DREAMWORKS HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5001
+#EXTINF:-1 tvg-id="DreamWorks HD" tvg-name="DREAMWORKS SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DWSP.png" group-title="INFANTIL",DREAMWORKS SD
+http://line.danoli101.com:8080/Amanda/Amanda/5002
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="CLAN TVE HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="INFANTIL",CLAN TVE HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5003
+#EXTINF:-1 tvg-id="clantve.es" tvg-name="CLAN TVE HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="INFANTIL",CLAN TVE HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5004
+#EXTINF:-1 tvg-id="CLAN  TVE" tvg-name="CLAN TVE SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CLANTV.png" group-title="INFANTIL",CLAN TVE SD
+http://line.danoli101.com:8080/Amanda/Amanda/5005
+#EXTINF:-1 tvg-id="BOING" tvg-name="BOING HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="INFANTIL",BOING HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5006
+#EXTINF:-1 tvg-id="BOING" tvg-name="BOING HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="INFANTIL",BOING HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5007
+#EXTINF:-1 tvg-id="BOING" tvg-name="BOING SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BOING.png" group-title="INFANTIL",BOING SD
+http://line.danoli101.com:8080/Amanda/Amanda/5008
+#EXTINF:-1 tvg-id="BABY TV" tvg-name="BABY TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/BABY.png" group-title="INFANTIL",BABY TV SD
+http://line.danoli101.com:8080/Amanda/Amanda/5009
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="INFANTIL",DISNEY JR HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5010
+#EXTINF:-1 tvg-id="disneyjunior.es" tvg-name="DISNEY JUNIOR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PLAYDC.png" group-title="INFANTIL",DISNEY JUNIOR SD
+http://line.danoli101.com:8080/Amanda/Amanda/5011
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="INFANTIL",CANAL PANDA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5012
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="INFANTIL",CANAL PANDA HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5013
+#EXTINF:-1 tvg-id="CANAL PANDA" tvg-name="CANAL PANDA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/PANDA.png" group-title="INFANTIL",CANAL PANDA SD
+http://line.danoli101.com:8080/Amanda/Amanda/5014
+#EXTINF:-1 tvg-id="NICK JR FHD" tvg-name="NICK JR HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="INFANTIL",NICK JR HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5015
+#EXTINF:-1 tvg-id="NICK JR" tvg-name="NICK JR SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICKJR.png" group-title="INFANTIL",NICK JR SD
+http://line.danoli101.com:8080/Amanda/Amanda/5016
+#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="NICKELODEON HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="INFANTIL",NICKELODEON HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5017
+#EXTINF:-1 tvg-id="NICKELODEON FHD" tvg-name="NICKELODEON HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NICK.png" group-title="INFANTIL",NICKELODEON HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5018
+#EXTINF:-1 tvg-id="NICKELODEON HD" tvg-name="NICKELODEON SD" tvg-logo="https://upload.wikimedia.org/wikipedia/commons/thumb/7/7a/Nickelodeon_2009_logo.svg/2880px-Nickelodeon_2009_logo.svg.png" group-title="INFANTIL",NICKELODEON SD
+http://line.danoli101.com:8080/Amanda/Amanda/5019
+#EXTINF:-1 tvg-id="disney.es" tvg-name="DISNEY CHANNEL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="INFANTIL",DISNEY CHANNEL HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5020
+#EXTINF:-1 tvg-id="disney.es" tvg-name="DISNEY CHANNEL HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="INFANTIL",DISNEY CHANNEL HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5021
+#EXTINF:-1 tvg-id="disney.es" tvg-name="DISNEY CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCH.png" group-title="INFANTIL",DISNEY CHANNEL SD
+http://line.danoli101.com:8080/Amanda/Amanda/5022
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="NATIONAL GEOGRAPHIC HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5182
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="NATIONAL GEOGRAPHIC HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5183
+#EXTINF:-1 tvg-id="NAT GEO FHD" tvg-name="NATIONAL GEOGRAPHIC SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGEO.png" group-title="ENTRETENIMIENTO",NATIONAL GEOGRAPHIC SD
+http://line.danoli101.com:8080/Amanda/Amanda/5184
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="ENTRETENIMIENTO",NAT GEO WILD HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5185
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="ENTRETENIMIENTO",NAT GEO WILD HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5186
+#EXTINF:-1 tvg-id="NAT GEO WILD" tvg-name="NAT GEO WILD SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NATGW.png" group-title="ENTRETENIMIENTO",NAT GEO WILD SD
+http://line.danoli101.com:8080/Amanda/Amanda/5187
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="HISTORIA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="ENTRETENIMIENTO",HISTORIA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5188
+#EXTINF:-1 tvg-id="HISTORIA" tvg-name="HISTORIA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="ENTRETENIMIENTO",HISTORIA HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5189
+#EXTINF:-1 tvg-id="HISTORIA FHD" tvg-name="HISTORIA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/HIST.png" group-title="ENTRETENIMIENTO",HISTORIA SD
+http://line.danoli101.com:8080/Amanda/Amanda/5190
+#EXTINF:-1 tvg-id="" tvg-name="NEGOCIOS TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NEGOTV.png" group-title="ENTRETENIMIENTO",NEGOCIOS TV SD
+http://line.danoli101.com:8080/Amanda/Amanda/5191
+#EXTINF:-1 tvg-id="Discovery MAX" tvg-name="DISCOVERY MAX SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCRMAX.png" group-title="ENTRETENIMIENTO",DISCOVERY MAX SD
+http://line.danoli101.com:8080/Amanda/Amanda/5192
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="ENTRETENIMIENTO",DISCOVERY CHANNEL HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5193
+#EXTINF:-1 tvg-id="discoverychannel.es" tvg-name="DISCOVERY CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/DCR.png" group-title="ENTRETENIMIENTO",DISCOVERY CHANNEL SD
+http://line.danoli101.com:8080/Amanda/Amanda/5194
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA UHD 4K" tvg-logo="https://vfes-images.ott.kaltura.com/a1cf0c24983149fca35af0f6e0e8e9a8_288X162.png" group-title="ENTRETENIMIENTO",ODISEA UHD 4K
+http://line.danoli101.com:8080/Amanda/Amanda/5195
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="ENTRETENIMIENTO",ODISEA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5196
+#EXTINF:-1 tvg-id="CANAL ODISEA" tvg-name="ODISEA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/ODISEA.png" group-title="ENTRETENIMIENTO",ODISEA SD
+http://line.danoli101.com:8080/Amanda/Amanda/5197
+#EXTINF:-1 tvg-id="" tvg-name="HORSE TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAUTIC.png" group-title="ENTRETENIMIENTO",HORSE TV SD
+http://line.danoli101.com:8080/Amanda/Amanda/5198
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5199
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5200
+#EXTINF:-1 tvg-id="CAZAyPESCA HD" tvg-name="CAZA Y PESCA SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/CAZPES.png" group-title="ENTRETENIMIENTO",CAZA Y PESCA SD
+http://line.danoli101.com:8080/Amanda/Amanda/5201
+#EXTINF:-1 tvg-id="Cazavision" tvg-name="CAZAVISIÓN SD" tvg-logo="https://i.ibb.co/f8vddXR/280x75-carousel-cazavision.png" group-title="ENTRETENIMIENTO",CAZAVISIÓN SD
+http://line.danoli101.com:8080/Amanda/Amanda/5202
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png" group-title="ENTRETENIMIENTO",IBERALIA TV HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5203
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA TV SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/guiapc/IBERAL.png" group-title="ENTRETENIMIENTO",IBERALIA TV SD
+http://line.danoli101.com:8080/Amanda/Amanda/5204
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA 100% CAZA HD 1080P" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliacaza.png" group-title="ENTRETENIMIENTO",IBERALIA 100% CAZA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5205
+#EXTINF:-1 tvg-id="IBERALIA TV" tvg-name="IBERALIA 100% PESCA HD 1080P" tvg-logo="https://www.redipo.es/imagenes/tv/canales_tv/iberaliapesca.png" group-title="ENTRETENIMIENTO",IBERALIA 100% PESCA HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5206
+#EXTINF:-1 tvg-id="Nautical Channel" tvg-name="NAUTICAL CHANNEL SD" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/NAUTIC.png" group-title="ENTRETENIMIENTO",NAUTICAL CHANNEL SD
+http://line.danoli101.com:8080/Amanda/Amanda/5207
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS TV HD 1080P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="ENTRETENIMIENTO",TOROS TV HD 1080P
+http://line.danoli101.com:8080/Amanda/Amanda/5208
+#EXTINF:-1 tvg-id="TOROS HD" tvg-name="TOROS TV HD 720P" tvg-logo="https://www.movistarplus.es/recorte/m-NEO/canal/CFERIA.png" group-title="ENTRETENIMIENTO",TOROS TV HD 720P
+http://line.danoli101.com:8080/Amanda/Amanda/5209
